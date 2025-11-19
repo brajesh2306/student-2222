@@ -36,7 +36,7 @@ st.markdown("<h1 style='text-align: center; color: #2E8B57;'>Student Depression 
 st.markdown("<h3 style='text-align: center; color: #808080;'>Enter the student's lifestyle and habits below</h3>", unsafe_allow_html=True)
 
 # background image
-image = Image.open('Artificial Intelligence Application in Mental Health Research.jpg')
+image = Image.open('Artificial Intelligence Application in Mental Health Research copy.jpg')
 st.image(image, use_container_width=True)
 
 st.markdown("<hr>", unsafe_allow_html=True)
